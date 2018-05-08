@@ -15,12 +15,13 @@ Then the script can be ran by calling it directly:
     CircleFormulas (formula arg) (radius)
 
 Example commands are as follows:
+    ```
     Volume:
         CircleFormulas -v 5
    Surface Area:
         CircleFormulas -sa 5
     Circumference:
         CircleFormulas -c 5
-
+    ```
 
 
